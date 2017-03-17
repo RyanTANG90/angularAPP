@@ -1,0 +1,21 @@
+{
+  "name": "ryanAngular",
+  "description": "Lagou Webapp",
+  "main": "",
+  "keywords": [
+    "angular"
+  ],
+  "authors": [
+    "Ryan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
